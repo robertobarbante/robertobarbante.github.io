@@ -1,0 +1,31 @@
+---
+title: "Index"
+author: Roberto Barbante"
+date: "2026-07-19"
+output: html_document
+[View project on GitHub](https://github.com/robertobarbante/adabi-portfolio-project-ML_Farmaci)
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+# Roberto Barbante
+
+## Machine Learning Portfolio
+I'am a graduate in Political Science and current student of one-year specializing Master’s programme in Data Analysis for Business Intelligence and Data Science (Adabi).
+
+## Featured Project
+
+### Drug name prediction
+Progetto di classificazione per identificare il nome di un farmaco partendo da 
+feature del pazione (età, condizione e genere).
+
+[View project on GitHub] https://github.com/robertobarbante/adabi-portfolio-project-ML_Farmaci
+
+## Skills
+Python, Pandas, RStudio, Scikit-learn, Data Visualization, Model Evaluation, SAS, Data cleaning and preprocessing
